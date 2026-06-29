@@ -101,3 +101,6 @@ Through these experiments, I gained hands-on experience with:
 * Reward engineering
 
 The Mars Rover experiment was particularly useful in understanding how small changes in the reward function can significantly influence an agent's behaviour.
+
+## Author
+Abhinaya Arunkumar
